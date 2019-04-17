@@ -1,0 +1,39 @@
+C:\Users\Dominik\source\repos\projekt siszarp\projekt siszarp\bin\Debug\projekt siszarp.exe.config
+C:\Users\Dominik\source\repos\projekt siszarp\projekt siszarp\bin\Debug\projekt siszarp.exe
+C:\Users\Dominik\source\repos\projekt siszarp\projekt siszarp\bin\Debug\projekt siszarp.pdb
+C:\Users\Dominik\source\repos\projekt siszarp\projekt siszarp\obj\Debug\projekt siszarp.csprojAssemblyReference.cache
+C:\Users\Dominik\source\repos\projekt siszarp\projekt siszarp\obj\Debug\projekt_siszarp.Form1.resources
+C:\Users\Dominik\source\repos\projekt siszarp\projekt siszarp\obj\Debug\projekt_siszarp.Form2.resources
+C:\Users\Dominik\source\repos\projekt siszarp\projekt siszarp\obj\Debug\projekt_siszarp.Properties.Resources.resources
+C:\Users\Dominik\source\repos\projekt siszarp\projekt siszarp\obj\Debug\projekt siszarp.csproj.GenerateResource.cache
+C:\Users\Dominik\source\repos\projekt siszarp\projekt siszarp\obj\Debug\projekt siszarp.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\source\repos\projekt siszarp\projekt siszarp\obj\Debug\projekt siszarp.exe
+C:\Users\Dominik\source\repos\projekt siszarp\projekt siszarp\obj\Debug\projekt siszarp.pdb
+C:\Users\Student\Desktop\projekt siszarp\projekt siszarp\bin\Debug\samolot.jpg
+C:\Users\Student\Desktop\projekt siszarp\projekt siszarp\bin\Debug\samolot2.jpg
+C:\Users\Student\Desktop\projekt siszarp\projekt siszarp\bin\Debug\projekt siszarp.exe.config
+C:\Users\Student\Desktop\projekt siszarp\projekt siszarp\bin\Debug\projekt siszarp.exe
+C:\Users\Student\Desktop\projekt siszarp\projekt siszarp\bin\Debug\projekt siszarp.pdb
+C:\Users\Student\Desktop\projekt siszarp\projekt siszarp\obj\Debug\projekt siszarp.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\projekt siszarp\projekt siszarp\obj\Debug\projekt_siszarp.AboutBox1.resources
+C:\Users\Student\Desktop\projekt siszarp\projekt siszarp\obj\Debug\projekt_siszarp.Form1.resources
+C:\Users\Student\Desktop\projekt siszarp\projekt siszarp\obj\Debug\projekt_siszarp.Form2.resources
+C:\Users\Student\Desktop\projekt siszarp\projekt siszarp\obj\Debug\projekt_siszarp.Properties.Resources.resources
+C:\Users\Student\Desktop\projekt siszarp\projekt siszarp\obj\Debug\projekt siszarp.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\projekt siszarp\projekt siszarp\obj\Debug\projekt siszarp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\projekt siszarp\projekt siszarp\obj\Debug\projekt siszarp.exe
+C:\Users\Student\Desktop\projekt siszarp\projekt siszarp\obj\Debug\projekt siszarp.pdb
+C:\GitHub\NET\projekt siszarp\projekt siszarp\bin\Debug\samolot.jpg
+C:\GitHub\NET\projekt siszarp\projekt siszarp\bin\Debug\samolot2.jpg
+C:\GitHub\NET\projekt siszarp\projekt siszarp\bin\Debug\projekt siszarp.exe.config
+C:\GitHub\NET\projekt siszarp\projekt siszarp\bin\Debug\projekt siszarp.exe
+C:\GitHub\NET\projekt siszarp\projekt siszarp\bin\Debug\projekt siszarp.pdb
+C:\GitHub\NET\projekt siszarp\projekt siszarp\obj\Debug\projekt siszarp.csprojAssemblyReference.cache
+C:\GitHub\NET\projekt siszarp\projekt siszarp\obj\Debug\projekt_siszarp.AboutBox1.resources
+C:\GitHub\NET\projekt siszarp\projekt siszarp\obj\Debug\projekt_siszarp.Form1.resources
+C:\GitHub\NET\projekt siszarp\projekt siszarp\obj\Debug\projekt_siszarp.Form2.resources
+C:\GitHub\NET\projekt siszarp\projekt siszarp\obj\Debug\projekt_siszarp.Properties.Resources.resources
+C:\GitHub\NET\projekt siszarp\projekt siszarp\obj\Debug\projekt siszarp.csproj.GenerateResource.cache
+C:\GitHub\NET\projekt siszarp\projekt siszarp\obj\Debug\projekt siszarp.csproj.CoreCompileInputs.cache
+C:\GitHub\NET\projekt siszarp\projekt siszarp\obj\Debug\projekt siszarp.exe
+C:\GitHub\NET\projekt siszarp\projekt siszarp\obj\Debug\projekt siszarp.pdb
