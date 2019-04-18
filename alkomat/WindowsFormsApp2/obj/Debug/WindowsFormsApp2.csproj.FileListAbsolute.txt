@@ -1,0 +1,74 @@
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\a\0.jpg
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\a\1.jpg
+D:\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\a\2.jpg
+D:\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\Studia\V Semestr\Budowa aplikacji na platformie NET\2018.12.15-2019.01.13\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\a\0.jpg
+D:\Studia\V Semestr\Budowa aplikacji na platformie NET\2018.12.15-2019.01.13\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\a\1.jpg
+D:\Studia\V Semestr\Budowa aplikacji na platformie NET\2018.12.15-2019.01.13\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\a\2.jpg
+D:\Studia\V Semestr\Budowa aplikacji na platformie NET\2018.12.15-2019.01.13\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Studia\V Semestr\Budowa aplikacji na platformie NET\2018.12.15-2019.01.13\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Studia\V Semestr\Budowa aplikacji na platformie NET\2018.12.15-2019.01.13\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Studia\V Semestr\Budowa aplikacji na platformie NET\2018.12.15-2019.01.13\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+D:\Studia\V Semestr\Budowa aplikacji na platformie NET\2018.12.15-2019.01.13\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\Studia\V Semestr\Budowa aplikacji na platformie NET\2018.12.15-2019.01.13\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\Studia\V Semestr\Budowa aplikacji na platformie NET\2018.12.15-2019.01.13\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Studia\V Semestr\Budowa aplikacji na platformie NET\2018.12.15-2019.01.13\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Studia\V Semestr\Budowa aplikacji na platformie NET\2018.12.15-2019.01.13\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Studia\V Semestr\Budowa aplikacji na platformie NET\2018.12.15-2019.01.13\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Studia\V Semestr\Budowa aplikacji na platformie NET\2018.12.15-2019.01.13\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+Y:\_1budapp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\a\0.jpg
+Y:\_1budapp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\a\1.jpg
+Y:\_1budapp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\a\2.jpg
+Y:\_1budapp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+Y:\_1budapp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+Y:\_1budapp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+Y:\_1budapp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+Y:\_1budapp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+Y:\_1budapp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+Y:\_1budapp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+Y:\_1budapp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+Y:\_1budapp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+Y:\_1budapp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+Y:\_1budapp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Student\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\a\0.jpg
+C:\Users\Student\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\a\1.jpg
+C:\Users\Student\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\a\2.jpg
+C:\Users\Student\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Student\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Student\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Student\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\Student\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Student\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Student\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Student\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Student\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Student\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\a\3.jpg
+C:\Users\Student\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\a\4.jpg
+C:\GitHub\NET\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\a\0.jpg
+C:\GitHub\NET\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\a\1.jpg
+C:\GitHub\NET\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\a\2.jpg
+C:\GitHub\NET\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\a\3.jpg
+C:\GitHub\NET\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\a\4.jpg
+C:\GitHub\NET\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\GitHub\NET\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\GitHub\NET\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\GitHub\NET\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\GitHub\NET\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\GitHub\NET\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\GitHub\NET\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\GitHub\NET\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\GitHub\NET\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\GitHub\NET\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\GitHub\NET\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
